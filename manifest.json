@@ -3,7 +3,7 @@
 
   "name": "CsdnHack",
   "version": "0.0.2",
-  "description": "Unhidden csdn",
+  "description": "show blog.csdn.net hidden content",
   "icons": {
     "16": "img/icon16.png",
     "48": "img/icon48.png",
